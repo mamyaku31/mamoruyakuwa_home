@@ -166,3 +166,33 @@ h4 {
 	font-size: 14px;
 }
 }
+
+
+/* ===== ナビバー ===== */
+.navbar {
+  background: #333;
+  padding: 0 20px;
+}
+
+.navbar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.navbar li {
+  margin-right: 24px;
+}
+
+.navbar a {
+  color: #fff;
+  display: block;
+  text-decoration: none;
+  padding: 15px 0;
+}
+
+.navbar a:hover {
+  background: #444;
+  transition: .3s;
+}
