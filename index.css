@@ -1,99 +1,168 @@
-/* ===== Base ===== */
+@charset "UTF-8";
 body {
-  margin: 0;
-  font-family: "Helvetica Neue", Arial, sans-serif;
-  color: #111;
-  background: #ffffff;
-  line-height: 1.6;
+	margin: 0;
+	padding: 0;
+	font-family: "游ゴシック Medium", "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", sans-serif;
+	line-height: 1.6;
+    font-size: 16px;
 }
-
-/* ===== Left minimal navigation ===== */
-.side-nav {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 180px;
-  height: 100vh;
-  border-right: 1px solid #e5e5e5;
-  padding-top: 60px;
-  background: #fff;
+#header-container {
+  margin: 0 auto;
+  width: 694px;
 }
-
-.side-nav ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+header {
+	background-color: #214555;
 }
-
-.side-nav li {
-  margin: 18px 0;
-  text-align: right;
-  padding-right: 25px;
+#head-inner {
+    padding: 25px 0;
 }
-
-.side-nav a {
-  text-decoration: none;
-  color: #666;
-  font-size: 15px;
-  letter-spacing: 0.5px;
-}
-
-.side-nav a:hover {
-  color: #000;
-}
-
-/* ===== Main layout ===== */
-#outer {
-  margin-left: 180px;
-}
-
-main {
-  max-width: 760px;
-  padding: 60px 60px;
-}
-
-/* ===== Typography ===== */
 h1 {
-  font-size: 28px;
-  font-weight: 500;
-  margin-bottom: 5px;
+	font-size: 26px;
+	font-weight: bold;
+	padding: 10px 0 0 0;
+	margin: 0;
+	color: #f3e6d2;
 }
-
+h1 a {
+	font-weight: bold;
+	color: #f3e6d2;
+	text-decoration: none;
+}
+h1 a:hover {
+	color: #e8f3f9;
+	text-decoration: none;
+}
 .description {
-  color: #777;
-  font-size: 14px;
+	line-height: 1.2;
+	color: #f3f2eb;
+	margin: 0.5em 0 1em 0;
 }
-
 h2 {
-  margin-top: 50px;
-  font-weight: 500;
-  font-size: 20px;
-  border-bottom: 1px solid #eee;
-  padding-bottom: 6px;
+	font-size: 22px;
+	margin: 0;
+	padding: 4px 0;
+	border-bottom: 1px solid #999;
 }
-
-h3 {
-  margin-top: 30px;
-  font-weight: 500;
-  font-size: 16px;
+#content-wrapper {margin: 0 auto;
+    width: 694px;}
+main {
+	color: #333;
 }
-
+#inner {
+	padding: 20px 0 0 0;
+}
+ul {
+	margin: 0 0 0 1em;
+	padding: 0;
+}
+li {
+	list-style: disc;
+}
 p {
-  font-size: 15px;
+	margin: 1em 0;
 }
-
-/* ===== Links ===== */
+img {
+	max-width: 100%;
+	height: auto;
+	border: 0;
+}
+hr {
+	border-width: 1px 0 0 0;
+	border-style: solid;
+	border-color: #ccc;
+	height: 1px;
+}
 a {
-  color: #000;
+	font-weight: normal;
 }
+aside {
 
-a:hover {
-  opacity: 0.6;
 }
-
-/* ===== Footer ===== */
+#middle-inner {
+	padding: 20px 0 20px 0;
+}
+.side-title {
+	padding: 7px 16px 7px 16px;
+	background-color: #f1f1f1;
+	color: #333;
+	font-weight: bold;
+	border: 1px solid #ccc;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+.side {
+	margin: 0 0 10px 0;
+	padding: 2px 8px 8px 7px;
+	background-color: #fcfcfc;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+	border-radius: 5px;
+}
+.side ul {
+	margin: 0 0 0 10px;
+	padding: 0;
+}
+.side li {
+	list-style: none;
+	margin-bottom: 0.5em;
+}
+.side li a {
+	text-decoration: none;
+	color: #214555;
+}
+.side li a:hover {
+	text-decoration: underline;
+}
 footer {
-  margin-top: 80px;
-  font-size: 13px;
-  color: #888;
+	font-size: 15px;
+	height: 100px;
+	clear: both;
+	text-align: center;
+}
+blockquote {
+	border: 1px solid #ccc;
+	padding: 5px;
+	margin: 10px;
+}
+@media screen and (max-width: 767px) {
+#header-container {
+    margin: 0;
+	width: 100%;
+}
+header {
+
+}
+#head-inner {
+    padding: 25px 10px;
+	background-color: #214555;
+}
+.description {
+}
+#content-wrapper {
+margin: 0;
+	width: 100%;}
+main {
+width: 100%;
+	color: #333;
+}
+#inner {
+	padding: 20px 10px 0 10px;
+}
+aside {
+width: 100%;
+}
+#middle-inner {
+	padding: 10px 10px 20px 10px;
+}
+h1 {
+	font-size: 20px;
+}
+h2 {
+	font-size: 18px;
+}
+h3 {
+	font-size: 16px;
+}
+h4 {
+	font-size: 14px;
+}
 }
