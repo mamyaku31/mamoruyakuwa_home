@@ -3,10 +3,10 @@ title: Mamoru Yakuwa
 
 navigation:
 - title: Home
-  url: /
-- title: News
-  url: /#news
+  url: index.md
 - title: Research
-  url: /#research
+  url: Pages/Research.md
+- title: Materials
+  url: Pages/Materials.md
 - title: Contact
-  url: /#contact
+  url: Pages/Contact.md
