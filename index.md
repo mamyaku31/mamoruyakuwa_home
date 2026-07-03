@@ -1,4 +1,4 @@
-# Mamoru Yakuwa's Personal Website
+# Mamoru Yakuwa's Website
 
 八鍬 守 \[jákɯ̀wà mámòɾɯ̀\]
 
