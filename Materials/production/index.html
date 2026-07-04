@@ -35,14 +35,23 @@ const welcome = {
   type: jsPsychHtmlButtonResponse,
   prompt: "<p>実験に参加いただきありがとうございます。</p>",
   stimulus: "",
-  choices: '次へ進む',
+  choices: ['次へ進む'],
 };
+
+const initialize_mic = {
+  type: jsPsychInitializeMicrophone,
+  device_select_message: 'これは被験者にマイクを許可してもらうための試行です。<br>\
+「マイクを許可してください」というメッセージが表示された場合は許可してください。',
+  button_label: '次へ'
+};
+
+
 
 const goodbye = {
   type: jsPsychHtmlButtonResponse,
   prompt: "<p>実験に協力いただきありがとうございました。</p>",　
   stimulus: "",
-  choices: '実験を終了する',
+  choices: ['実験を終了する'],
 };
 
 
