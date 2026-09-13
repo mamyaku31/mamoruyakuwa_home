@@ -1,6 +1,10 @@
 # Research
 
-## Forthcoming, preprints
+## Preprints
+
++ Yakuwa, Mamoru (in prep) "Stochastic knowledge on word-formation: evidence from French demonym formation"
+
+## Forthcoming talks
 
 + 八鍬守 (2026b) フランス語におけるリエゾン子音と頻度分布: 音節構造との関係性に関する予備的調査, [Evidence-based linguistics workshop 2026](https://sites.google.com/view/elw-workshop/%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%88%E3%83%BC%E3%82%AF_1?authuser=0) @ 国立国語研究所
 
