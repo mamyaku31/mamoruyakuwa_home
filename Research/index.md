@@ -8,18 +8,31 @@ In generative phonology, there has long been a debate over whether linguistic kn
 
 <details>
   <summary> Suffix predictability in French demonym formation </summary>
+
+  **French demonym and predictability**
 </details>
 
 <details><summary> Patterns in variable reduplications </summary>
+
+  **Echo-word formation in Japanese**
+
+  **Frequency of reduplication in hypocoristics formation**
 </details>
+<br>
 
 ## Web-based data collection in dialectal studies
 
+In recent years, online experimental programming tools such as jsPsych and lab.js have been increasingly used in psychological and linguistic research, making it possible to conduct a wide variety of experiments on the web. In dialect research, we believe that such methods are effective for efficiently collecting data from a diverse range of participants.
+
 <details>
-  <summary> Diminutive *-kko* in Tohoku Japanese </summary>
+  <summary> Diminutive -kko in Tohoku Japanese </summary>
 </details>
+<br>
 
 ## Phonetic convergence and priming
 
-
 ## Other projects
+
+<details>
+  <summary>French liaison and its status</summary>
+</details>
