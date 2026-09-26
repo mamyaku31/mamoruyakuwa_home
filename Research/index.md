@@ -10,6 +10,7 @@ In generative phonology, there has long been a debate over whether linguistic kn
   <summary> Suffix predictability in French demonym formation </summary>
 
   **French demonym and predictability**
+  
 </details>
 
 <details><summary> Patterns in variable reduplications </summary>
@@ -17,6 +18,7 @@ In generative phonology, there has long been a debate over whether linguistic kn
   **Echo-word formation in Japanese**
 
   **Frequency of reduplication in hypocoristics formation**
+  
 </details>
 <br>
 
