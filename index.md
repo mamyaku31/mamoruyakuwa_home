@@ -2,7 +2,7 @@
 
 八鍬 守 \[jákɯ̀wà mámòɾɯ̀\]
 
-### About
+## About
 
 Hi, my name is Mamoru Yakuwa. I am an undergraduate student in the Department of French Language and Literature, Faculty of Letters, at Aoyama Gakuin University.
 
