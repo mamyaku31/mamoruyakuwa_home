@@ -24,7 +24,7 @@ In generative phonology, there has long been a debate over whether linguistic kn
 
 ## Web-based data collection in dialectal studies
 
-In recent years, online experimental programming tools such as jsPsych and lab.js have been increasingly used in psychological and linguistic research, making it possible to conduct a wide variety of experiments on the web. In dialect research, we believe that such methods are effective for efficiently collecting data from a diverse range of participants.
+In recent years, online experimental programming tools such as [jsPsych](https://www.jspsych.org/latest/) and [lab.js](https://lab.js.org/) have been increasingly used in psychological and linguistic research, making it possible to conduct a wide variety of experiments on the web. In dialect research, we believe that such methods are effective for efficiently collecting data from a diverse range of participants.
 
 <details>
   <summary> Diminutive -kko in Tohoku Japanese </summary>
