@@ -2,7 +2,7 @@
 
 ## Preprints
 
-+ Yakuwa, Mamoru (in prep) "Stochastic knowledge on word-formation: evidence from French demonym formation"
++ Yakuwa, Mamoru (2026, submitted) "Stochastic knowledge on word-formation: evidence from French demonym formation" **\[Preprint\]** *Lingbuzz/010461* <br> [Link to Lingbuzz](https://lingbuzz.net/lingbuzz/010461) [Datasets and codes](https://osf.io/ru5ks/overview?view_only=8a7aedef6abc441d8d33fc49721bf88a)
 
 ## Publications
 
