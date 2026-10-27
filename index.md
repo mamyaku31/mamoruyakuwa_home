@@ -14,6 +14,8 @@ Through my research, I aim to clarify what kind of knowledge human beings have a
 
 ## News
 
++ My preprint paper "Stochastic knowledge on word formation: evidence from French demonym formation" has been published on Lingbuzz. Take a look! [Move to "Works" page](https://mamyaku31.github.io/mamoruyakuwa_home/Works/)
+
 + 青山学院大学の[最優秀成績賞](https://www.aoyama.ac.jp/life/prize/)を受賞しました！私のインタビュー記事が[AGU LiFE](https://life.a01.aoyama.ac.jp/interview/2163)にて公開されました。研究のことについてたくさんお話ししたのでぜひご覧ください！<br> I have been awarded the [First Academic Excellence Award](https://www.aoyama.ac.jp/life/prize/?wovn=en) at Aoyama Gakuin University! An interview with me has been published in [AGU LiFE]([https://life.a01.aoyama.ac.jp/](https://life.a01.aoyama.ac.jp/interview/2163)). I talked at length about my research. Take a look!
 
 ## Research interests
